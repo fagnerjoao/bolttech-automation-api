@@ -1,0 +1,23 @@
+# Arquivos do IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Arquivos compilados
+target/
+
+# Arquivos de log
+*.log
+*.html
+*.json
+*.png
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+*.exe
